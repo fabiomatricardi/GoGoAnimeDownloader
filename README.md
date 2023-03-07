@@ -1,6 +1,6 @@
 # GoGoAnimeDownloader
 Python code to download entire Anime serie episodes.
-## Refernces
+## References
 **GitHub Repo**
 > https://github.com/riimuru/gogoanime-api#how-to-get-started
 
