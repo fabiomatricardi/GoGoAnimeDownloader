@@ -3,12 +3,17 @@ Python code to download entire Anime serie episodes.
 In the GUI versiont (gui-anime-download.py) you can select the destination folder,
 and a single episode to be downloaded
 
+NOTE: the code use ffmpeg to download the m3u8 stream. Be sure to have it installed on your machine!
+
 ### Usage
 0. Paste the ID of the anime from GoGoAnime
 1. Click on Get Info
 2. Click on Destination Folder selection
 3. Optional: if you want to download a single episode click on button 3.Select episode
 4. Use button **Download Anime** (for all episode), or **Download episode** (for the selected episode)
+
+<img src="https://github.com/fabiomatricardi/GoGoAnimeDownloader/blob/main/Screenshot%20gui.png" height="400">
+
 ## References
 **GitHub Repo**
 > https://github.com/riimuru/gogoanime-api#how-to-get-started
